@@ -16,6 +16,22 @@ This repository contains comprehensive guidelines and best practices for organiz
 | Español | [Guidelines_ES.md](./Docs/Guidelines/Guidelines_ES.md) | Documentación completa en español |
 | Italiano | [Guidelines_IT.md](./Docs/Guidelines/Guidelines_IT.md) | Documentazione completa in italiano |
 
+### GitHub Issue Templates
+
+Professional issue templates for streamlined task management. **[📋 View Templates Overview](./Docs/Github-Issues/README.md)**
+
+| Language | Setup Guide | Description |
+|----------|-------------|-------------|
+| English | [GITHUB_TEMPLATES_GUIDE_EN.md](./Docs/Github-Issues/GITHUB_TEMPLATES_GUIDE_EN.md) | Complete setup guide in English |
+| Español | [GITHUB_TEMPLATES_GUIDE_ES.md](./Docs/Github-Issues/GITHUB_TEMPLATES_GUIDE_ES.md) | Guía completa de configuración en español |
+| Italiano | [GITHUB_TEMPLATES_GUIDE_IT.md](./Docs/Github-Issues/GITHUB_TEMPLATES_GUIDE_IT.md) | Guida completa alla configurazione in italiano |
+
+**Included Templates:**
+- 🎮 Feature Request - For new functionalities and mechanics
+- 🐛 Bug Report - For reporting errors and issues
+- 🎨 Asset Request - For requesting assets (models, animations, audio, UI)
+- 📐 Game Design Task - For design tasks (level design, balancing, testing)
+
 ## What's Inside
 
 ### 1. Team Operations
@@ -29,6 +45,9 @@ This repository contains comprehensive guidelines and best practices for organiz
 - Task templates and workflows
 - Naming conventions and best practices
 - Daily workflow recommendations
+- **GitHub Issue Templates** - Professional templates for features, bugs, assets, and design tasks
+- Label system and prioritization
+- Kanban board setup and automation
 
 ### 3. Game Design Document (GDD)
 - Complete GDD template for game jams
@@ -51,11 +70,22 @@ This repository contains comprehensive guidelines and best practices for organiz
 
 ## Quick Start
 
-1. **Choose your language** and open the corresponding guidelines
-2. **Read Section 1** (Team Operations) before the jam starts
-3. **Use Section 3** (GDD Template) during the kickoff meeting
-4. **Follow Section 4** (Action Plan) during the jam
-5. **Reference Section 5** (Resources) as needed
+### Before the Jam
+
+1. **Setup GitHub Issue Templates**
+   - Choose your language and follow the [GitHub Templates Guide](./Docs/Github-Issues/README.md)
+   - Create labels and configure your repository
+   - Set up GitHub Projects (Kanban board)
+
+2. **Choose your language** and open the corresponding guidelines
+3. **Read Section 1** (Team Operations) before the jam starts
+
+### During the Jam
+
+4. **Use Section 3** (GDD Template) during the kickoff meeting
+5. **Follow Section 4** (Action Plan) during the jam
+6. **Use GitHub Issue Templates** for all tasks and bugs
+7. **Reference Section 5** (Resources) as needed
 
 ## Golden Rule
 
@@ -86,6 +116,32 @@ This documentation supports four core roles:
 - **Version Control**: Git + GitHub
 - **Project Management**: Notion
 - **Issue Tracking**: GitHub Issues
+
+## GitHub Issue Templates
+
+This repository includes professional issue templates optimized for game jam workflows:
+
+### 🎮 Feature Request
+For implementing new gameplay mechanics, systems, and functionalities. Includes acceptance criteria, technical subtasks, and testing sections.
+
+### 🐛 Bug Report
+For tracking and fixing errors. Includes reproduction steps, expected vs actual behavior, and technical information.
+
+### 🎨 Asset Request
+For requesting 3D models, animations, audio, and UI elements. Includes technical specifications, export formats, and integration checklists.
+
+### 📐 Game Design Task
+For level design, game balancing, playtesting, and design documentation tasks.
+
+### Setup Instructions
+
+1. Choose your language and open the [GitHub Templates Guide](./Docs/Github-Issues/README.md)
+2. Copy the templates from `.github/ISSUE_TEMPLATE/` to your repository
+3. Create the required labels (automation script provided in the guide)
+4. Configure your GitHub Project board
+5. Start using templates for all issues!
+
+See the complete **[GitHub Templates Documentation](./Docs/Github-Issues/README.md)** (available in English, Español, and Italiano) for detailed setup instructions, label system, workflows, and best practices.
 
 ## Contributing
 

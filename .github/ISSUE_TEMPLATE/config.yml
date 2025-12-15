@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Pregunta General o Discusión
+    url: https://github.com/fabroche/game-jam-docs/discussions
+    about: Para preguntas generales, dudas o discusiones que no son issues
+  - name: 📚 Documentación del Proyecto
+    url: https://notion.so/tu-workspace
+    about: Consulta el GDD y documentación completa en Notion
+  - name: 🎮 Game Jam Community
+    url: https://discord.gg/tu-servidor
+    about: Únete a nuestro Discord para comunicación en tiempo real
