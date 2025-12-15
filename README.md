@@ -16,8 +16,6 @@
 #### Regla de Oro: "Done is Better than Perfect"
 En una game jam, un juego funcional y simple **siempre** supera a un proyecto ambicioso sin terminar.
 
-Ejemplo de pull request
-
 #### Comunicación Constante
 - **Daily Stand-ups:** 10-15 minutos al inicio de cada día
   - ¿Qué hice ayer?
